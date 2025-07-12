@@ -239,7 +239,7 @@ This project can help media strategists, data teams, and content creators unders
 
  ##  🙌 Connect With Me
 
-- ![LinkedIn: Jahanvi Oberoi](https://www.linkedin.com/in/jahanvioberoi/)
+- ![LinkedIn: Jahanvi Oberoi](www.linkedin.com/in/jahanvioberoi)
 - ![GitHub: @jahanvioberoi](https://github.com/jahanvioberoi)
 
 
